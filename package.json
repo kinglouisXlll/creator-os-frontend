@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "creator_os_frontend_clean",
   "version": "0.1.0",
   "private": true,
@@ -23,6 +24,24 @@
       "react-app",
       "react-app/jest"
     ]
+=======
+  "name": "creator-os-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.2"
+>>>>>>> dd1c16f2a44a05716328343ccf12e9e61e8798b2
   },
   "browserslist": {
     "production": [
