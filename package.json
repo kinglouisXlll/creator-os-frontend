@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 4d267b892c2a6090e4a84f0c96208c1fc36451b1
   "name": "creator_os_frontend_clean",
   "version": "0.1.0",
   "private": true,
@@ -23,6 +27,27 @@
       "react-app",
       "react-app/jest"
     ]
+<<<<<<< HEAD
+=======
+=======
+  "name": "creator-os-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.2"
+>>>>>>> dd1c16f2a44a05716328343ccf12e9e61e8798b2
+>>>>>>> 4d267b892c2a6090e4a84f0c96208c1fc36451b1
   },
   "browserslist": {
     "production": [
@@ -35,10 +60,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.13"
+=======
+>>>>>>> 4d267b892c2a6090e4a84f0c96208c1fc36451b1
   }
 }
